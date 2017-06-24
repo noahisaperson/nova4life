@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NOVA Class Schedule</title>
+</head>
+
+<body>
+  <table border="1">
+    <tr>
+      <td id="title" colspan="6">NOVA Schedule - Fall 2017</td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td>Monday</td>
+      <td>Tuesday</td>
+      <td>Wednesday</td>
+      <td>Thursday</td>
+      <td>Friday</td>
+    </tr>
+    <tr>
+      <td>8:00 AM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="lecture" rowspan="4">ITP 120-001M<br />Lecture<br />8:00 AM - 11:40 AM<br />MP-216</td>
+    </tr>
+    <tr>
+      <td>9:00 AM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10:00 AM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11:00 AM</td>
+      <td class="lecture" rowspan="2">HIS 122-001M<br />Lecture<br />11:00 AM - 12:15 PM<br />MC-245</td>
+      <td class="lab" rowspan="3">CHM 111-0A7M<br />Laboratory<br />11:00 AM - 1:40 PM<br />MC-329</td>
+      <td class="lecture" rowspan="2">HIS 122-001M<br />Lecture<br />11:00 AM - 12:15 PM<br />MC-245</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12:00 PM</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1:00 PM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2:00 PM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3:00 PM</td>
+      <td></td>
+      <td class="lecture" rowspan="2">CHM 111-007M<br />Lecture<br />3:30 PM - 4:45 PM<br />MC-332</td>
+      <td></td>
+      <td class="lecture" rowspan="2">CHM 111-007M<br />Lecture<br />3:30 PM - 4:45 PM<br />MC-332</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4:00 PM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5:00 PM</td>
+      <td></td>
+      <td class="lecture" rowspan="2">CST 110-005M<br />Lecture<br />5:30 PM - 6:45 PM<br />MC-239</td>
+      <td></td>
+      <td class="lecture" rowspan="2">CST 110-005M<br />Lecture<br />5:30 PM - 6:45 PM<br />MC-239</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6:00 PM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7:00 PM</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+     </tr>
+   </table>
+ </body>
+ 
+</html>
